@@ -6,5 +6,5 @@
 
 아래에 해당 서버와 링크을 냈두고 있겠습니다
 
-- Discord : [Team Sirius](https://discord.gg/YyDWaSvS2y)
-- Github : [Team Sirius](https://github.com/dply-app)
+- Discord : [이동하기](https://discord.gg/YyDWaSvS2y)
+- Github : [이동하기](https://github.com/dply-app)
